@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErTusharB
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking for a job as Frontend Dev.
 - 📫 How to reach me fsdtushar@gmail.com
 
 <!---
